@@ -32,7 +32,7 @@ Zusammenbau eines PCs inkl. BIOS-Update und Windows-Installation
   Stabiler Betrieb nach BIOS Update
   Erfolgreich installiertes und konfiguriertes Windows
 
-  #Erkenntnisse & Lernerfolge 
+# Erkenntnisse & Lernerfolge 
   Hardwaremontage und -prüfung
   Bedeutung von BIOS firmware für Systemstabilität
   Systematisches Vorgehen bei Bootproblemen 
